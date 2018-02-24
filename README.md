@@ -1,10 +1,10 @@
 # Demo-Conflicto
 
-Linea 3 ________
+Linea 3 -----
 
-Linea 5 ________
+Linea 5 -----
 
-Linea 7 ________
+Linea 7 -----
 
 
 
