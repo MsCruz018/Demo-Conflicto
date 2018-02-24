@@ -1,12 +1,11 @@
 # Demo-Conflicto
 
-Linea 1
+Linea 3 ________
+
+Linea 5 ________
+
+Linea 7 ________
 
 
-Linea 2
-
-Linea 4
-
-Linea 5
 
 
